@@ -1,0 +1,11 @@
+
+{
+  "version": 2,  
+  "redirects": [
+    {
+      "source": "/hakkimda", 
+      "destination": "https://bio.bayindirmedya.online",  
+      "permanent": true  
+    }
+  ]
+}
